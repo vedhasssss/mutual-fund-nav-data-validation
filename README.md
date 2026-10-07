@@ -21,7 +21,7 @@ A small SQL project that checks public mutual fund NAV data for bad records and 
 | Missing plan | 640 |
 | Duplicate ISIN | 10 |
 | **Total** | **1,838** |
-<img width="412" height="310" alt="image" src="https://github.com/user-attachments/assets/18dcf116-7367-4688-a1f0-6e41deb46d7c" />
+<img width="542" height="310" alt="image" src="https://github.com/user-attachments/assets/18dcf116-7367-4688-a1f0-6e41deb46d7c" />
 
 
 ## How to run
