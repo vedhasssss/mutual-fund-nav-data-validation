@@ -21,6 +21,8 @@ A small SQL project that checks public mutual fund NAV data for bad records and 
 | Missing plan | 640 |
 | Duplicate ISIN | 10 |
 | **Total** | **1,838** |
+<img width="212" height="110" alt="image" src="https://github.com/user-attachments/assets/18dcf116-7367-4688-a1f0-6e41deb46d7c" />
+
 
 ## How to run
 1. Open `nav_data_validation.sql` in MySQL Workbench.
